@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "ep-green-bread-adthn54h-pooler.c-2.us-east-1.aws.neon.tech",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "vercelacme",
+            "database": "neondb",
+            "username": "neondb_owner",
+            "password": "npg_9PgL5kJHdlie"
+        }
+    ]
+}
